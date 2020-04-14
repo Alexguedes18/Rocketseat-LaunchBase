@@ -19,6 +19,8 @@ O repositório está separado por semana, dentro de cada semana tem os arquivos 
 Abaixo também tem um link para um resumo de todo o contéudo abordado para revisões e dúvidas.
 
 ### :calendar: Semana 01
+
+### Introdução ao desenvolvimento Web
 - Desafio 1-1 - [Detalhes](https://github.com/Rocketseat/bootcamp-launchbase-desafios-01/blob/master/desafios/01-1-primeiros-passos-com-js.md)
   - Calculo IMC - [Resolução](https://github.com/Alexguedes18/Rocketseat-LaunchBase/blob/master/desafios/01-1-imc.js)
   - Calculo Aposentadoria - [Resolução](https://github.com/Alexguedes18/Rocketseat-LaunchBase/blob/master/desafios/01-1-aposentadoria.js)
@@ -31,6 +33,10 @@ Abaixo também tem um link para um resumo de todo o contéudo abordado para revi
   - Usuários e Tenologias - [Resolução](https://github.com/Alexguedes18/Rocketseat-LaunchBase/blob/master/desafios/1-3-usuarioEtecnologia.js)
   - Buscar Tecnologias - [Resolução](https://github.com/Alexguedes18/Rocketseat-LaunchBase/blob/master/desafios/1-3-usuarioEtecnologia.js)
   - Receitas e Despesas - [Resolução](https://github.com/Alexguedes18/Rocketseat-LaunchBase/blob/master/desafios/1-4-receitasEdespesas.js)
+
+  ### Iniciando no Front-End
+  - Desafio 2-1 - [Detalhes](https://github.com/Rocketseat/bootcamp-launchbase-desafios-02/blob/master/desafios/02-1-primeiro-html.md)
+  - Adicionar Favicon e Estilizar [Resolução]
 
 
 ### Update
