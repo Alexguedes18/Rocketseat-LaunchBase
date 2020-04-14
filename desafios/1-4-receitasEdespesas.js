@@ -71,3 +71,4 @@ console.log(getHigherTransactionByType('debit')) // { type: 'debit', value: 80 }
 console.log(getAverageTransactionValue()) // 70
 
 console.log(getTransactionsCount()) // { credit: 2, debit: 2 }
+
