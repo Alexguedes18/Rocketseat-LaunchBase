@@ -30,7 +30,7 @@ Abaixo também tem um link para um resumo de todo o contéudo abordado para revi
 - Desafio 1-3 - [Detalhes](https://github.com/Rocketseat/bootcamp-launchbase-desafios-01/blob/master/desafios/01-3-funcoes-e-estruturas-de-repeticao.md)
   - Usuários e Tenologias - [Resolução](https://github.com/Alexguedes18/Rocketseat-LaunchBase/blob/master/desafios/1-3-usuarioEtecnologia.js)
   - Buscar Tecnologias - [Resolução](https://github.com/Alexguedes18/Rocketseat-LaunchBase/blob/master/desafios/1-3-usuarioEtecnologia.js)
-  - Receitas e Despesas - [Resolução]
+  - Receitas e Despesas - [Resolução](https://github.com/Alexguedes18/Rocketseat-LaunchBase/blob/master/desafios/1-4-receitasEdespesas.js)
 
 
 ### Update
